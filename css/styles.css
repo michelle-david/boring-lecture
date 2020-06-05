@@ -1,14 +1,25 @@
+
 .intro {
-  color: green;
+  color: cornflowerblue;
   font-weight: bold;
 }
 
 h2.intro {
-  width: 600px
+  font-weight: bold;
 }
 
 img.intro {
-  border: 2px solid blue
+  width: 30%;
+  float: right;
+  margin: 12px;
+  border: 2px solid grey
+}
+
+img.dutchbros {
+  width: 30%;
+  float: left;
+  margin: 12px;
+  border: 2px solid paleturquoise
 }
 
 p.intro {
@@ -16,5 +27,29 @@ p.intro {
 }
 
 body  {
+  font-family: fantasy;
+  margin: 16px;
   color: grey
+}
+
+.dog {
+  font-size: larger;
+  color:green;
+}
+
+.sidebar {
+  width: 25%;
+  margin: 12px;
+  border: 6px;
+  padding: 6px;
+  float: left;
+  background-color: paleturquoise;
+}
+
+.good-luck {
+  width: 50%;
+  font-weight: 900;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
 }
