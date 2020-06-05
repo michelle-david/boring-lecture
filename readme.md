@@ -1,4 +1,4 @@
-#_Why is there so much dog hair?_
+_Why is there so much dog hair?_
 
 #### _Practice lecture on dog hair with style sheets, June 4 2020_
 
