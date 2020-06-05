@@ -1,0 +1,20 @@
+.intro {
+  color: green;
+  font-weight: bold;
+}
+
+h2.intro {
+  width: 600px
+}
+
+img.intro {
+  border: 2px solid blue
+}
+
+p.intro {
+  font-size: larger;
+}
+
+body  {
+  color: grey
+}
